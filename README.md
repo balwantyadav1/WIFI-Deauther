@@ -1,11 +1,12 @@
 # WIFI-Deauther
 
 
-## Overview
-This project is based on the [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther.git) and allows you to perform deauthentication attacks, packet monitoring, and clock functionalities using an ESP8266 module.
 
-![ESP8266 Deauther Front View](image1_link_here)
-![ESP8266 Deauther Side View](image2_link_here)
+## Overview
+WiFi-Deauther is a custom-built project that allows you to perform deauthentication attacks, packet monitoring, and additional functionalities using an ESP8266 module.
+
+![WiFi-Deauther Front View](image1_link_here)
+![WiFi-Deauther Side View](image2_link_here)
 
 > **Disclaimer:** This project is intended for educational and security testing purposes only. Use it responsibly and ensure you have permission before testing on any network.
 
@@ -57,8 +58,8 @@ This project is based on the [esp8266_deauther](https://github.com/SpacehuhnTech
 ### Step 3: Flash the Firmware
 1. Clone the project repository:
    ```sh
-   git clone https://github.com/SpacehuhnTech/esp8266_deauther.git
-   cd esp8266_deauther
+   git clone https://github.com/yourrepo/WiFi-Deauther.git
+   cd WiFi-Deauther
    ```
 2. Open the project in **Arduino IDE**.
 3. Select the correct **Board** (e.g., NodeMCU 1.0 or Wemos D1 Mini).
@@ -101,7 +102,6 @@ This project is based on the [esp8266_deauther](https://github.com/SpacehuhnTech
 Deauthentication attacks are illegal in many countries if used without authorization. Use this tool only for educational purposes and security testing on networks you own or have explicit permission to test.
 
 ## Credits
-- Project based on [Spacehuhn's Deauther](https://github.com/SpacehuhnTech/esp8266_deauther).
 - Developed using **ESP8266, Arduino IDE, and Adafruit libraries**.
 
 ## License
