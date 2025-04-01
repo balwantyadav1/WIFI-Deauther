@@ -5,8 +5,8 @@
 ## Overview
 WiFi-Deauther is a custom-built project that allows you to perform deauthentication attacks, packet monitoring, and additional functionalities using an ESP8266 module.
 
-![DorkScan Logo](https://raw.githubusercontent.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeauther.jpg)
-![DorkScan Logo](https://raw.githubusercontent.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeautherName.JPG)
+![DorkScan Logo](https://raw.githubusercontent.com/balwantyadav1/WIFI-Deauther/image/WiFiDeauther.jpg)
+![DorkScan Logo](https://raw.githubusercontent.com/balwantyadav1/WIFI-Deauther/image/WiFiDeautherName.JPG)
 
 ![WiFi-Deauther Front View](image1_link_here)
 ![WiFi-Deauther Side View](image2_link_here)
