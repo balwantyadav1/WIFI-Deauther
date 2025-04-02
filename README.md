@@ -8,7 +8,10 @@ WiFi-Deauther is a custom-built project that allows you to perform deauthenticat
 
 
 ![WiFi-Deauther Front View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeauther.jpg)
-![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeautherName.JPG)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeautherName1.JPG)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/22.jpg)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/44.jpg)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/55.jpg)
 
 > **Disclaimer:** This project is intended for educational and security testing purposes only. Use it responsibly and ensure you have permission before testing on any network.
 
@@ -71,7 +74,8 @@ WiFi-Deauther is a custom-built project that allows you to perform deauthenticat
 ### Step 4: Connect to the Device
 1. After flashing, the ESP8266 will create a Wi-Fi network named `pwned` (default SSID).
 2. Connect to `pwned` and open `http://192.168.4.1` in a web browser.
-3. Use the web interface to control the device.
+3. Paswrd `deauther`
+4. Use the web interface to control the device.
 
 ## Usage Guide
 ### 1. Using the OLED Display and Buttons
