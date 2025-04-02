@@ -9,9 +9,9 @@ WiFi-Deauther is a custom-built project that allows you to perform deauthenticat
 
 ![WiFi-Deauther Front View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeauther.jpg)
 ![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/WiFiDeautherName1.JPG)
-![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/22.jpg)
-![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/44.jpg)
-![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/image/55.jpg)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/22.jpg)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/44.jpg)
+![WiFi-Deauther Side View](https://github.com/balwantyadav1/WIFI-Deauther/blob/main/image/55.jpg)
 
 > **Disclaimer:** This project is intended for educational and security testing purposes only. Use it responsibly and ensure you have permission before testing on any network.
 
